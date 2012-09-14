@@ -1,4 +1,8 @@
 MonPremierProjet
 ================
 
-Une simple description
+Une simple description...
+
+* a
+* b
+* c
